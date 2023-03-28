@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700,400;
+  outline: none;
+}
+.container{
+  margin: 0 auto;
+  min-width: 1440px;
+}
